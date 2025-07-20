@@ -1,0 +1,6 @@
+__pycache__/
+uploaded_sessions/
+session-banned/
+session-frozen/
+session-error/
+.env
